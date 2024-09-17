@@ -21,10 +21,13 @@ This repository provides comprehensive coverage of fundamental data structures a
 - **Binary Search Trees (BST)**: Binary trees with ordered nodes for efficient searching.
 - **AVL Trees**: Self-balancing binary search trees.
 
-## Sorting Algorithms:
-- **Bubble Sort**: Simple comparison-based sorting algorithm.
-- **Quick Sort**: Efficient divide-and-conquer sorting algorithm.
-- **Merge Sort**: Stable sorting algorithm using divide-and-conquer strategy.
+## Sorting Algorithms
+- **Bubble Sort**: Compares adjacent elements and swaps them if needed, repeating until sorted.
+- **Quick Sort**: Divides the list using a pivot and recursively sorts the partitions.
+- **Merge Sort**: Splits the list into halves, sorts each half, and merges them.
+- **Selection Sort**: Selects the smallest (or largest) element and moves it to the start (or end).
+- **Heap Sort**: Uses a heap structure to repeatedly extract the maximum element.
+- **Insertion Sort**: Builds the sorted list one element at a time by inserting elements into their correct position.
 
 ## Searching Algorithms:
 - **Linear Search**: Basic search technique for unsorted data.
