@@ -1,0 +1,14 @@
+
+-Linked List 
+	1- head-> next element (value,ptr)-> next element(value,ptr)-> null 
+		
+	2-Operations 
+		-insertion
+		-deletion
+		-traversal(show or access)
+		-search
+	3-Type of linded list 
+		-single linked list 
+		-double linked list : Have two ptr to add and delete from anywhere.
+		-circular linked list : 
+		 

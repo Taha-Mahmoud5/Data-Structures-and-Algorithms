@@ -1,0 +1,15 @@
+-Queue 
+   1-FIFO -> first in first out. 
+   2-LILO -> last in last out. 
+   
+   3-Operations 
+	-enqueue 
+	-dequeue
+	-front (or) peek 
+	-is empty 
+	-size 
+   4-type of queue 
+	-simple queue 
+	-circuler queue : Circular shape for input and output.
+	-deque : Allows input and output from both sides.
+	-priorty queue : It is based on priority, not input order.

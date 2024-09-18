@@ -1,0 +1,6 @@
+1-تكوين الداتا استراكشر و مخطط الدراسه 
+2-مراجعه علي المواشر (Pointer)
+3- مراجعه علي المصفوفات و علاقتها بالبوينتر 
+4- new and delete in memore
+5- explain a struct method in c++ 
+6- explain a function 

@@ -1,0 +1,20 @@
+
+-Stack 
+   1-LIFO -> last in first out. 
+  
+   2-Operations 
+      - push 
+      - pop 
+      - top (or) peek 
+      - is empty 
+      - size 
+
+   3-explain stack 
+
+            |     |
+            |  2  |   <- Top element (last added, first removed)
+            |  1  |
+            |  0  |
+            |_____|   <- Bottom element (first added, last removed)
+
+        top = -1  in stack is empty

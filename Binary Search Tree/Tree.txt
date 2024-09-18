@@ -1,0 +1,30 @@
+-Tree
+	1-Type of tree 
+		-Binary tree
+		-Binary search tree 
+		-Balanced tree
+			-AVL tree
+			-Red-Black tree
+		-Heap tree
+			-Max heap 
+			-Min heap 
+		-N-ary tree 
+	
+	2-Operations 
+		-Insertion 
+		-Deletion 
+		-Search 
+		-In-order : Left -> Root -> Right (LRT) 
+		-Post-order : Lift -> Right -> Root
+		-Pre-order : Root -> Lift -> Right 
+	
+	3-Binary Search Tree 
+			8
+		5		10
+	    3       7        9      15
+
+In-order : 3 5 7 8 9 10 15.
+
+Pre-order : 8 5 3 7 10 9 15 
+ 
+Post-order : 3 7 5 9 15 10 8 
